@@ -1,0 +1,1 @@
+A customised responsive table. When the viewport is < 980px, the table header is hidden and the respective header cell values are inserted as span in the row cells.
